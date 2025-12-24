@@ -1,6 +1,6 @@
 # wool_scripts
 
-## 致敬开源精神 净化网络环境
+## 致敬奶思开源精神 净化网络环境
 
 ![GitHub contributors](https://img.shields.io/github/contributors/fmz200/wool_scripts?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/fmz200/wool_scripts?color=ffd700&style=for-the-badge)
